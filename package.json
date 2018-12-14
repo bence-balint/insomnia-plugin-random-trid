@@ -1,0 +1,9 @@
+{
+  "name": "insomnia-plugin-random-trid",
+  "version": "1.0.0",
+  "insomnia": {
+    "name": "trid",
+    "description": "Transaction id generator plugin for Insomnia"
+  },
+  "author": "Bence Balint"
+}
